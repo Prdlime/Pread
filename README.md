@@ -106,3 +106,5 @@ Pread stays in front of every other app, including full-screen ones, and has no 
 - `macos.py`: keeps Pread's windows in front of other apps
 - `config.py`: settings
 - `tests/test_logic.py`: checks for the parts that don't need a Mac
+
+© 2026 Prdlime. Licensed under the MIT License. See the LICENSE file.
